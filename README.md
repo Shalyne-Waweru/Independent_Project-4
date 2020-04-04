@@ -4,11 +4,18 @@ Autolib Electric Car Sharing System
 ## Authors
 - [Shalyne Waweru](https://github.com/Shalyne-Waweru/Independent_Project-4.git)
 
+## Project Description
+The project entails processing stations' data collected for a period of 9 days in view of understanding electric car usage over time. This wasto be able to identify the most popular hour of the day for picking up a shared electric car (Bluecar) in the city of Paris over the month of April 2018.
+
 ## Project setup instructions
 To start using this project use the following commands:
 
 - `git clone https://github.com/Shalyne-Waweru/Independent_Project-4.git`
 - `cd Independent_Project-4`
+
+## Project Installation Requirements
+- Google colab/Jupyter notebook
+- Python basics
 
 ## License info
 MIT License
